@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM-Dapper-Exercise-BestBuy", "ORM-Dapper-Exercise-BestBuy\ORM-Dapper-Exercise-BestBuy.csproj", "{D8096067-CA3A-4FA6-9D4D-52AAB7C53349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8096067-CA3A-4FA6-9D4D-52AAB7C53349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8096067-CA3A-4FA6-9D4D-52AAB7C53349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8096067-CA3A-4FA6-9D4D-52AAB7C53349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8096067-CA3A-4FA6-9D4D-52AAB7C53349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
