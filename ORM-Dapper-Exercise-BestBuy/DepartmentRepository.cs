@@ -19,6 +19,7 @@ public class DepartmentRepository : IDepartmentRepository
 
     public void InsertDepartment(string newDepartmentName)
     {
-        _connection.Execute("INSERT INTO departments (Name) VALUES (@newDepartmentName)", new {newDepartmentName});
+        _connection.Execute("INSERT INTO departments (Name) VALUES (@newDepartmentName)", 
+            new {newDepartmentName});
     }
 }

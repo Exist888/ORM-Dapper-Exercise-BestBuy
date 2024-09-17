@@ -48,3 +48,4 @@ C:\Users\filip\OneDrive\Desktop\Repos\ORM-Dapper-Exercise-BestBuy\ORM-Dapper-Exe
 C:\Users\filip\OneDrive\Desktop\Repos\ORM-Dapper-Exercise-BestBuy\ORM-Dapper-Exercise-BestBuy\obj\Debug\net8.0\ORM-Dapper-Exercise-BestBuy.pdb
 C:\Users\filip\OneDrive\Desktop\Repos\ORM-Dapper-Exercise-BestBuy\ORM-Dapper-Exercise-BestBuy\obj\Debug\net8.0\ORM-Dapper-Exercise-BestBuy.genruntimeconfig.cache
 C:\Users\filip\OneDrive\Desktop\Repos\ORM-Dapper-Exercise-BestBuy\ORM-Dapper-Exercise-BestBuy\obj\Debug\net8.0\ref\ORM-Dapper-Exercise-BestBuy.dll
+C:\Users\filip\OneDrive\Desktop\Repos\ORM-Dapper-Exercise-BestBuy\ORM-Dapper-Exercise-BestBuy\obj\Debug\net8.0\ORM-Dapper-Exercise-BestBuy.sourcelink.json
